@@ -1,3 +1,3 @@
-# git-for-CVS-users
+# git-for-SVN-users
 
-Documentation to help CVS users understand and use git.
+Documentation to help SVN users understand and use git.
